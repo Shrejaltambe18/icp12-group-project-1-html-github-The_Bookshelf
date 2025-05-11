@@ -81,10 +81,10 @@
 
 | Name | page | Photo |
 |------|------|-------|
-| **Pratiksha** |Homepage| ![Pratiksha](#1) |
-| **Siddhi** | Collections | ![Siddhi](#2) |
-| **Pratik** | Explore | ![Pratik](#3) |
-| **Shrejal** |About Us| ![shrejal](#4) |
+| **Pratiksha** |Homepage| ![Pratiksha](./Markdown/image1.png) |
+| **Siddhi** | Collections | ![Siddhi](./Markdown/siddhi.png) |
+| **Pratik** | Explore | ![Pratik](./Markdown/pratik.png) |
+| **Sejal** |About Us| ![sejal](./Markdown/sejal.png) |
 | **Pranali** |Contact Us| ![Pranali](#5) |
 | **Kanchan** |Sign Up| ![Kanchan](#6)|
 
