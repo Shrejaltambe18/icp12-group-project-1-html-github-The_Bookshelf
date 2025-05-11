@@ -84,7 +84,11 @@
 | **Pratiksha** |Homepage| ![Pratiksha](./Markdown/image1.png) |
 | **Siddhi** | Collections | ![Siddhi](./Markdown/siddhi.png) |
 | **Pratik** | Explore | ![Pratik](./Markdown/pratik.png) |
+<<<<<<< HEAD
 | **Shrejal** |About Us| ![shrejal](#4) |
+=======
+| **Sejal** |About Us| ![sejal](./Markdown/sejal.png) |
+>>>>>>> ad4cc9310eedca9bb03ccfde0798c6cfce358271
 | **Pranali** |Contact Us| ![Pranali](#5) |
 | **Kanchan** |Sign Up| ![Kanchan](./Markdown/sejal.png)|
 
