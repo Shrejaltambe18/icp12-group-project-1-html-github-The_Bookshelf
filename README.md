@@ -1,5 +1,5 @@
 # The Bookshelf 📔📕📘📗📙!!!
-![headind tag](header.png)
+![headind tag](./Markdown/header.png)
 
 
 *The Bookshelf* is an online bookstore built to make discovering and purchasing books easy and enjoyable. It offers a wide range of titles across various genres, with a clean interface and smooth user experience.
@@ -11,7 +11,7 @@
 - Responsive design for all devices
 
 ## Homepage
-![homepage](homepage.png)
+![homepage](./Markdown/homepage.png)
 
 # 📚 Online Bookstore: Book Ordering Process From Bookshelf...
 
