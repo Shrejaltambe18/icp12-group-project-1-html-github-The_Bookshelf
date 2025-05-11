@@ -1,5 +1,5 @@
 # The Bookshelf 📔📕📘📗📙!!!
-![headind tag](header.png)
+![headind tag](./Markdown/header.png)
 
 
 *The Bookshelf* is an online bookstore built to make discovering and purchasing books easy and enjoyable. It offers a wide range of titles across various genres, with a clean interface and smooth user experience.
@@ -11,7 +11,7 @@
 - Responsive design for all devices
 
 ## Homepage
-![homepage](homepage.png)
+![homepage](./Markdown/homepage.png)
 
 # 📚 Online Bookstore: Book Ordering Process From Bookshelf...
 
@@ -81,10 +81,10 @@
 
 | Name | page | Photo |
 |------|------|-------|
-| **Pratiksha** |Homepage| ![Pratiksha](#1) |
-| **Siddhi** | Collections | ![Siddhi](#2) |
-| **Pratik** | Explore | ![Pratik](#3) |
-| **Shrejal** |About Us| ![shrejal](#4) |
+| **Pratiksha** |Homepage| ![Pratiksha](./Markdown/image1.png) |
+| **Siddhi** | Collections | ![Siddhi](./Markdown/siddhi.png) |
+| **Pratik** | Explore | ![Pratik](./Markdown/pratik.png) |
+| **Sejal** |About Us| ![sejal](./Markdown/sejal.png) |
 | **Pranali** |Contact Us| ![Pranali](#5) |
 | **Kanchan** |Sign Up| ![Kanchan](#6)|
 
