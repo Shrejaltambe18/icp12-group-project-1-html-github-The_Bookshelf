@@ -1,5 +1,5 @@
 # The Bookshelf 📔📕📘📗📙!!!
-![headind tag](header.png)
+![headind tag](./Markdown/header.png)
 
 
 *The Bookshelf* is an online bookstore built to make discovering and purchasing books easy and enjoyable. It offers a wide range of titles across various genres, with a clean interface and smooth user experience.
@@ -11,7 +11,7 @@
 - Responsive design for all devices
 
 ## Homepage
-![homepage](homepage.png)
+![homepage](./Markdown/homepage.png)
 
 # 📚 Online Bookstore: Book Ordering Process From Bookshelf...
 
@@ -79,14 +79,11 @@
 
 # 👥 Contributors
 
-| Name | page | Photo |
-|------|------|-------|
-| **Pratiksha** |Homepage| ![Pratiksha](#1) |
-| **Siddhi** | Collections | ![Siddhi](#2) |
-| **Pratik** | Explore | ![Pratik](#3) |
-| **Shrejal** |About Us| ![shrejal](#4) |
-| **Pranali** |Contact Us| ![Pranali](#5) |
-| **Kanchan** |Sign Up| ![Kanchan](#6)|
+<a href="https://github.com/pratiksha950/icp12-group-project-1-html-github-The_Bookshelf/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pratiksha950/icp12-group-project-1-html-github-The_Bookshelf" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 
 
